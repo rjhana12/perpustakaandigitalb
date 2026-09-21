@@ -1,0 +1,8 @@
+# Label-LR3-20250506
+Selamat Datang di Perpustakaan Digital
+Berikut ini adalah Koleksi yang dimiliki:
+## Koleksi
+1. [Label-LR3-20250506](ebook/Label-LR3-20250506) - Hana pacar dino (2020)
+2. Contoh buku lain
+---
+*Power by GitHub Pages*
