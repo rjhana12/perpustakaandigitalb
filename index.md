@@ -1,4 +1,8 @@
 # Digital Library
+Nama: Raihana Jasmine
+NIM: 13040124130084
+Kelas: B
+
 Selamat Datang di Perpustakaan Digital
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
