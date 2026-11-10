@@ -16,6 +16,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [The New Yorker Magazine](ebook/The New Yorker Magazine.pdf) - Richard Brody, Michael Schulman, Sheldon Pearce, Helen Shaw, Brian Seibert, K. Leander Williams, Jane Bua, and Adam Gopnik (2025)
 9. [The Ultimate Do It Yourself Ebike Guide Learn How To Build Your Own Electric Bicycle](ebook/The Ultimate Do It Yourself Ebike Guide Learn How To Build Your Own Electric Bicycle.pdf) - Micah Toll (2017)
 10. [Winnie the Pooh Tiggers Hate to Lose. Level 1](ebook/Winnie the Pooh Tiggers Hate to Lose. Level 1.pdf) - Isabel Gaines (2004)
-11. [Rangkuman UGC](ebook/Rangkuman UGC.pdf) - Intan Yusrina Zairon (2026)
+11. [Rangkuman UGC](ebook/Rangkuman UGC.pdf) - Raihana Jasmine (2026)
 ---
 *Power by GitHub Pages*
